@@ -1,4 +1,5 @@
 # Android Diagonal Cut / Slant View
+android sample java code to show how to do create diagonal or slanted View using Path.LineTo and canvas.drawPath
 
 Screenshot:
 ![Screenshot](https://github.com/jameswhite7/android_diagonal_slantview/blob/master/readme_screenshots/screenshot3b.png)
