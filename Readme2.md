@@ -78,3 +78,5 @@ https://github.com/hdodenhof/CircleImageView
 ## License
 
 [![WTFPL badge](http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-4.png "License:WTFPL")](http://www.wtfpl.net/)
+
+[https://github.com/jameswhite7/android_diagonal_slantview/blob/master/LICENSE.MD](https://github.com/jameswhite7/android_diagonal_slantview/blob/master/LICENSE.MD "License.md")
