@@ -1,6 +1,7 @@
 # Android Diagonal Cut / Slant View
 
 Screenshot:
+![Screenshot](https://github.com/jameswhite7/android_diagonal_slantview/blob/master/readme_screenshots/screenshot3b.png)
 
 This kind of view shouldn't need any special programming code..it should just part of the Google Android Material Design specs (but it's not):
 
